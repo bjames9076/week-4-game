@@ -1,0 +1,76 @@
+
+.btn {
+    padding: 14px 24px;
+    border: 0 none;
+    font-weight: 700;
+    letter-spacing: 1px;
+    text-transform: uppercase;
+}
+ 
+.btn:focus, .btn:active:focus, .btn.active:focus {
+    outline: 0 none;
+}
+ 
+.btn-primary {
+    background: #fcfcfc;
+    color: #ffffff;
+}
+ 
+.btn-primary:hover, .btn-primary:focus, .btn-primary:active, .btn-primary.active, .open > .dropdown-toggle.btn-primary {
+    background: #33a6cc;
+}
+ 
+.btn-primary:active, .btn-primary.active {
+    background: #007299;
+    box-shadow: none;
+}
+
+#row1{
+    background: rgb(218, 128, 12);
+    padding: 14px 24px;
+    border-style: solid;
+    border-width: thick;
+    border-color: white;
+}
+
+#row2{
+    background: rgb(171, 224, 228);
+    padding: 14px 24px;
+    border-style: solid;
+    border-width: thick;
+    border-color: white;
+}
+
+#row3col1{
+    background: rgb(7, 230, 118);
+    padding: 14px 24px;
+    border-style: solid;
+    border-width: thick;
+    border-color: white;
+}
+
+#row3col2{
+    background: rgb(2, 238, 247);
+    padding: 14px 24px;
+    border-style: solid;
+    border-width: thick;
+    border-color: white;
+        
+}
+
+#row5{
+    background: rgb(97, 119, 95);
+    padding: 14px 24px;
+    border-style: solid;
+    border-width: thick;
+    border-color: white;
+}
+
+#row6{
+    background: rgb(97, 119, 95);
+    padding: 14px 24px;
+    border-style: solid;
+    border-width: thick;
+    border-color: white;
+}
+
